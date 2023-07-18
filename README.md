@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>About Me 📌</h1>
 - 👋 I am Basil Assi 
-- 💻 I'm currently a junior software developer and fresh gratuated student at [Birzeit University](https://www.birzeit.edu/ar) & Intern as Mobile Developer 
+- 💻 I'm currently a junior software developer and fresh gratuated student at [Birzeit University](https://www.birzeit.edu/ar) & Intern as Backend Developer 
 - ⚡ Very interested in {Backend, Web Technolgies, CI/CD and Software Testing}.
 - 📫 You can to reach me in **tarifibasel0@gmail.com**
 <br />
